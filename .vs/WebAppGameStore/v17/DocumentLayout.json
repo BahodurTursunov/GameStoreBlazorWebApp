@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\clients\\gamesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\clients\\gamesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\clients\\genresclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\clients\\gamesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\clients\\gamesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EditGame.razor",
               "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\EditGame.razor",
               "RelativeDocumentMoniker": "WebAppGameStore\\Components\\Pages\\EditGame.razor",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "WebAppGameStore\\Components\\Pages\\Home.razor",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "WebAppGameStore\\Models\\Genre.cs",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameSummary.cs",
               "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Models\\GameSummary.cs",
               "RelativeDocumentMoniker": "WebAppGameStore\\Models\\GameSummary.cs",
@@ -108,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GenresClient.cs",
               "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Clients\\GenresClient.cs",
               "RelativeDocumentMoniker": "WebAppGameStore\\Clients\\GenresClient.cs",
@@ -121,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameDetails.cs",
               "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Models\\GameDetails.cs",
               "RelativeDocumentMoniker": "WebAppGameStore\\Models\\GameDetails.cs",
@@ -134,13 +134,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "GamesClient.cs",
               "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Clients\\GamesClient.cs",
               "RelativeDocumentMoniker": "WebAppGameStore\\Clients\\GamesClient.cs",
               "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Clients\\GamesClient.cs",
               "RelativeToolTip": "WebAppGameStore\\Clients\\GamesClient.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAwAQAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T15:51:53.126Z",
               "EditorCaption": ""
@@ -176,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\App.razor",
               "RelativeDocumentMoniker": "WebAppGameStore\\Components\\App.razor",
