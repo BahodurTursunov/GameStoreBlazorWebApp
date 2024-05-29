@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "WebAppGameStore\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:29:43.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\App.razor",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\App.razor",
+              "RelativeToolTip": "WebAppGameStore\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:29:52.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditGame.razor",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\EditGame.razor",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Components\\Pages\\EditGame.razor",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\EditGame.razor",
+              "RelativeToolTip": "WebAppGameStore\\Components\\Pages\\EditGame.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T12:09:16.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\_Imports.razor",
+              "RelativeToolTip": "WebAppGameStore\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T12:10:24.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

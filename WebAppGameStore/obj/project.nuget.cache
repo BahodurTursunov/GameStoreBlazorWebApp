@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DcVyBRX0s+OR9rvN1gTgHIkCKtwBLAeLNeColL7xj9sAIs/b/6KA4j+G+4Q6sKzo37fS3p5x/l/23Wu+9wYQlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\WebAppGameStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bakha\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
