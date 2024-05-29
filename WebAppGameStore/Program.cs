@@ -1,3 +1,4 @@
+using WebAppGameStore.Clients;
 using WebAppGameStore.Components;
 
 namespace WebAppGameStore
@@ -11,7 +12,8 @@ namespace WebAppGameStore
             // Add services to the container.
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents();
-
+            builder.Services.AddSingleton<GamesClient>();
+            builder.Services.AddSingleton<GenresClient>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

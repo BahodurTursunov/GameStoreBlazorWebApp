@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\components\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\models\\gamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\models\\gamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\models\\gamesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\models\\gamesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\clients\\genresclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\clients\\genresclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\clients\\gamesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\clients\\gamesclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|solutionrelative:webappgamestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6BE72E5-5684-4F81-BE90-A544AC12C77F}|WebAppGameStore\\WebAppGameStore.csproj|c:\\users\\bakha\\source\\repos\\webappgamestore\\webappgamestore\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,40 +55,94 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "WebAppGameStore\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "WebAppGameStore\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T15:29:43.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\App.razor",
-              "RelativeDocumentMoniker": "WebAppGameStore\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\App.razor",
-              "RelativeToolTip": "WebAppGameStore\\Components\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T15:29:52.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "EditGame.razor",
               "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\EditGame.razor",
               "RelativeDocumentMoniker": "WebAppGameStore\\Components\\Pages\\EditGame.razor",
               "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\EditGame.razor",
               "RelativeToolTip": "WebAppGameStore\\Components\\Pages\\EditGame.razor",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-29T12:09:16.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "WebAppGameStore\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:29:43.603Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Models\\Genre.cs",
+              "RelativeToolTip": "WebAppGameStore\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:09:27.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameSummary.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Models\\GameSummary.cs",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Models\\GameSummary.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Models\\GameSummary.cs",
+              "RelativeToolTip": "WebAppGameStore\\Models\\GameSummary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:09:14.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenresClient.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Clients\\GenresClient.cs",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Clients\\GenresClient.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Clients\\GenresClient.cs",
+              "RelativeToolTip": "WebAppGameStore\\Clients\\GenresClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:09:03.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameDetails.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Models\\GameDetails.cs",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Models\\GameDetails.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Models\\GameDetails.cs",
+              "RelativeToolTip": "WebAppGameStore\\Models\\GameDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:04:43.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GamesClient.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Clients\\GamesClient.cs",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Clients\\GamesClient.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Clients\\GamesClient.cs",
+              "RelativeToolTip": "WebAppGameStore\\Clients\\GamesClient.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:51:53.126Z",
               "EditorCaption": ""
             },
             {
@@ -85,7 +163,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Program.cs",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Program.cs",
+              "RelativeToolTip": "WebAppGameStore\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:51:15.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\App.razor",
+              "RelativeDocumentMoniker": "WebAppGameStore\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\App.razor",
+              "RelativeToolTip": "WebAppGameStore\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:29:52.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\bakha\\source\\repos\\WebAppGameStore\\WebAppGameStore\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "WebAppGameStore\\Components\\_Imports.razor",
@@ -93,8 +197,7 @@
               "RelativeToolTip": "WebAppGameStore\\Components\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T12:10:24.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T12:10:24.639Z"
             }
           ]
         }

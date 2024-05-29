@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppGameStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f99f40d977d7009f4a3b9f0a9f99cb85fb79010")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppGameStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppGameStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

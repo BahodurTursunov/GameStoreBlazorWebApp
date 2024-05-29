@@ -27,3 +27,4 @@ C:\Users\bakha\source\repos\WebAppGameStore\WebAppGameStore\obj\Debug\net8.0\ref
 C:\Users\bakha\source\repos\WebAppGameStore\WebAppGameStore\obj\Debug\net8.0\WebAppGameStore.pdb
 C:\Users\bakha\source\repos\WebAppGameStore\WebAppGameStore\obj\Debug\net8.0\WebAppGameStore.genruntimeconfig.cache
 C:\Users\bakha\source\repos\WebAppGameStore\WebAppGameStore\obj\Debug\net8.0\ref\WebAppGameStore.dll
+C:\Users\bakha\source\repos\WebAppGameStore\WebAppGameStore\obj\Debug\net8.0\WebAppGameStore.sourcelink.json
